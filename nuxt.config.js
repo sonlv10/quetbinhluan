@@ -9,8 +9,10 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { name: 'description', name: 'description', content: 'Một phần mềm miễn phí giúp tiết kiệm thời gian và nhân lực đáng kể trong thời đại số hiện nay.' },
+      { name: 'title', content: 'Quét bình luận | Công cụ miễn phí hỗ trợ bán hàng online' },
+      { name: 'keywords', content: 'quét facebook, miễn phí, quét bình luận, quét comment, quét bài viết, auto facebook, scan bài viết, scan post, quét live stream, quét số điện thoại' },
+      { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
@@ -32,6 +34,7 @@ module.exports = {
   buildModules: [
     // https://go.nuxtjs.dev/typescript
     '@nuxt/typescript-build',
+    '@nuxtjs/tailwindcss',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
