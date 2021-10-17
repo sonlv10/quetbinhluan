@@ -37,11 +37,6 @@ module.exports = {
     '@nuxtjs/tailwindcss',
   ],
 
-  // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [
-    // https://go.nuxtjs.dev/bootstrap
-    'bootstrap-vue/nuxt',
-  ],
   target: 'static',
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
