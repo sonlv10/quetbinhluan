@@ -32,10 +32,12 @@
 		
 			<p class="text-blue-400 font-bold pb-8 lg:pb-6 text-center md:text-left fade-in">Dùng ngay hoàn toàn miễn phí:</p>
 			<div class="flex w-full justify-center md:justify-start pb-24 lg:pb-0 fade-in">
-				<div class="btns flex">
-                    <a href="#">tải về</a>
-                    <a href="https://app.quetbinhluan.com/" target="_blank">Mở trên web</a>
-                 </div>
+                <div class="wrapper w-full">
+                    <div class="btns flex">
+                        <a href="#">Tải về</a>
+                        <a href="https://app.quetbinhluan.com/" target="_blank">Bản web</a>
+                    </div>
+                </div>
 			</div>
 
 		</div>
