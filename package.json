@@ -19,15 +19,15 @@
     "@nuxt/types": "^2.15.7",
     "@nuxt/typescript-build": "^2.1.0",
     "@nuxtjs/tailwindcss": "^4.2.1",
-    "autoprefixer": "^9.8.6",
+    "autoprefixer": "^9.8.8",
     "cross-env": "^7.0.3",
     "electron": "^15.2.0",
     "electron-builder": "^22.13.1",
     "electron-devtools-installer": "^3.2.0",
     "fibers": "^5.0.0",
-    "postcss": "^8.3.9",
+    "postcss": "^7.0.39",
     "sass": "^1.43.2",
     "sass-loader": "^10.2.0",
-    "tailwindcss": "^2.2.17"
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
   }
 }
