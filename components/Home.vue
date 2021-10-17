@@ -23,7 +23,7 @@
 	</div>
 
 	<!--Main-->
-	<div class="container pt-24 md:pt-48 px-6 mx-auto flex flex-wrap flex-col md:flex-row items-center">
+	<div class="container pt-20 md:pt-40 px-6 mx-auto flex flex-wrap flex-col md:flex-row items-center">
 		
 		<!--Left Col-->
 		<div class="flex flex-col w-full xl:w-2/5 justify-center lg:items-start overflow-y-hidden">
@@ -52,7 +52,7 @@
                 class="container mx-auto flex flex-wrap items-center justify-between pb-12"
             >
                 <h2
-                class="w-full my-2 text-xl font-black leading-tight text-center text-gray-800 lg:mt-8"
+                class="w-full my-2 text-3xl font-black leading-tight text-center text-blue-800 lg:mt-8"
                 >
                 Chức năng chính
                 </h2>
