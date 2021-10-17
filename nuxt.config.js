@@ -4,7 +4,7 @@ module.exports = {
   head: {
     title: 'Quét bình luận | Công cụ miễn phí hỗ trợ bán hàng online',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'vi'
     },
     meta: [
       { charset: 'utf-8' },
