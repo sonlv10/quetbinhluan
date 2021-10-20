@@ -1,18 +1,17 @@
 ---
-title: My First Blog Post
+title: My Second Blog Post
 description: Learning how to use @nuxt/content to create a blog
-img: https://images.unsplash.com/reserve/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60
-alt: my first blog post
+img: https://images.unsplash.com/photo-1588432415392-51f6e1a61d5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+alt: my second blog post
 author: 
-  name: Peter
-  bio: All about Peter and what he does and where he works
-  img: https://images.unsplash.com/photo-1533636721434-0e2d61030955?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80
+  name: Maria
+  bio: All about Maria and where she works and what she does
+  img: https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2551&q=80
 tags: 
   - nuxtjs
-  - javascript
 ---
 
-Welcome to my first blog post using content module
+## Welcome to my second blog post using content module
 
 ## This is a heading
 This is some more info

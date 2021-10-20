@@ -51,7 +51,14 @@ export default {
   modules: [
     '@nuxt/content'
   ],
-
+  content: {
+    markdown: {
+      prism: {
+        theme: 'prism-themes/themes/prism-material-oceanic.css'
+      }
+    },
+    nestedProperties: ['author.name']
+  },
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   }
