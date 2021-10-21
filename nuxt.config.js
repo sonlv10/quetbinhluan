@@ -18,6 +18,9 @@ export default {
       { property: 'og:title', content: 'Quét bình luận | Công cụ miễn phí hỗ trợ bán hàng online' },
       { property: 'og:type', content: 'article' },
       { property: 'og:url', content: 'https://quetbinhluan.com' },
+      { property: 'og:image', content: '/fb-thumb.png' },
+      { property: 'og:image:width', content: '720' },
+      { property: 'og:image:height', content: '480' },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
