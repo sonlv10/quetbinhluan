@@ -28,7 +28,7 @@
                 <img class="w-5/6 mx-auto lg:mr-0 slide-in-bottom" src="../assets/img/devices.svg">
             </div>
 
-            <section class="bg-white border-b py-12 ">
+            <section class="bg-white border-b">
                 <div class="container mx-auto flex flex-wrap items-center justify-between pb-12">
                     <h2 class="w-full my-2 text-3xl font-black leading-tight text-center text-blue-800 lg:mt-8">
                         Chức năng chính
@@ -59,8 +59,8 @@
                 </div>
             </section>
 
-            <section class="bg-gray-100 border-b py-8 w-full">
-                <div class="container max-w-5xl mx-auto m-8">
+            <section class="bg-gray-100 border-b w-full">
+                <div class="container max-w-5xl mx-auto">
                     <div class="w-full mb-4">
                         <div class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t">
                         </div>
