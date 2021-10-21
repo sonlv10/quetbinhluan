@@ -4,7 +4,7 @@
     <div class="pb-14 bg-right bg-cover" style="background-image:url('../assets/img/bg.svg');">
 
         <!--Main-->
-        <div class="container pt-20 md:pt-40 px-2 flex flex-wrap flex-col md:flex-row items-center">
+        <div class="pt-20 md:pt-40 px-2 flex flex-wrap flex-col md:flex-row items-center">
 
             <!--Left Col-->
             <div class="flex flex-col w-full px-auto xl:w-2/5 justify-center lg:items-start overflow-y-hidden">
@@ -54,7 +54,7 @@
                             <svg class="h-10 w-10 mr-4 fill-current text-gray-500 opacity-75" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-3m-1 4l-3 3m0 0l-3-3m3 3V4" />
                             </svg>
-                            Lưu lại Excel/CSV</span>
+                            Lọc dữ liệu</span>
                     </div>
                 </div>
             </section>
