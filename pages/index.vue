@@ -30,7 +30,7 @@
         </NuxtLink>
       </li>
     </ul>
-    <h3 class="mb-4 font-bold text-2xl uppercase text-center">Topics</h3>
+    <!-- <h3 class="mb-4 font-bold text-2xl uppercase text-center">Topics</h3>
     <ul class="flex flex-wrap mb-4 text-center">
       <li
         v-for="tag of tags"
@@ -45,10 +45,11 @@
           </p>
         </NuxtLink>
       </li>
-    </ul>
+    </ul> -->
     <footer class="flex justify-center border-gray-500 border-t-2">
       <p class="mt-4">
-        Created by
+        @2021
+        <!-- Created by
         <a
           href="https://twitter.com/debs_obrien"
           class="font-bold hover:underline"
@@ -60,7 +61,7 @@
           class="font-bold hover:underline"
           >tutorial</a
         >
-        for how to build it.
+        for how to build it. -->
       </p>
     </footer>
   </div>
