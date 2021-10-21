@@ -4,7 +4,7 @@
     <div class="pb-14 bg-right bg-cover" style="background-image:url('../assets/img/bg.svg');">
 
         <!--Main-->
-        <div class="pt-20 md:pt-40 px-2 flex flex-wrap flex-col md:flex-row items-center">
+        <div class="m-4 pt-20 md:pt-36 px-2 flex flex-wrap flex-col md:flex-row items-center">
 
             <!--Left Col-->
             <div class="flex flex-col w-full px-auto xl:w-2/5 justify-center lg:items-start overflow-y-hidden">
