@@ -28,7 +28,7 @@
                 <img class="w-5/6 mx-auto lg:mr-0 slide-in-bottom" src="../assets/img/devices.svg">
             </div>
 
-            <section class="bg-white border-b w-screen">
+            <section class="bg-white border-b w-full">
                 <div class="container mx-auto flex flex-wrap items-center justify-between pb-12">
                     <h2 class="w-full my-2 text-3xl font-black leading-tight text-center text-blue-800 lg:mt-8">
                         Chức năng chính
