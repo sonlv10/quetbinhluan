@@ -15,7 +15,7 @@
                 <div class="flex w-full justify-center md:justify-start pb-24 lg:pb-0 fade-in">
                     <div class="wrapper w-full">
                         <div class="btns flex">
-                            <a href="https://api.quetbinhluan.com/download/fake-app-0.1.0-mac.dmg.zip">Tải về (Mac OS)</a>
+                            <a href="https://api.quetbinhluan.com/download/fake-app-0.1.0.dmg.zip">Tải về (Mac OS)</a>
                             <a href="https://app.quetbinhluan.com/" target="_blank">Bản web</a>
                         </div>
                     </div>
