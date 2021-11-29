@@ -12,7 +12,7 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { name: 'description', name: 'description', content: 'Một phần mềm miễn phí giúp tiết kiệm thời gian và nhân lực đáng kể trong thời đại số hiện nay.' },
       { name: 'title', content: 'Quét bình luận | Công cụ miễn phí hỗ trợ bán hàng online' },
-      { name: 'keywords', content: 'phần mềm quét bình luận miễn phí, tool quét bình luận miễn phí, quét facebook, quét bình luận miễn phí, miễn phí, quét bình luận, quét bình luận facebook, scan comment facebook, quét livestream facebook, quét comment, quét bài viết, auto facebook, scan bài viết, scan post, quét live stream, quét số điện thoại' },
+      { name: 'keywords', content: 'phần mềm quét bình luận miễn phí, tool quét bình luận miễn phí, quét facebook, quét bình luận miễn phí, miễn phí, quét bình luận, quét bình luận facebook, quét comment, quét bài viết, nuôi nick, tăng lượng truy cập web, seo web google' },
       { name: 'format-detection', content: 'telephone=no' },
       { property: 'og:description', name: 'description', content: 'Một phần mềm miễn phí giúp tiết kiệm thời gian và nhân lực đáng kể trong thời đại số hiện nay.' },
       { property: 'og:title', content: 'Quét bình luận | Công cụ miễn phí hỗ trợ bán hàng online' },
