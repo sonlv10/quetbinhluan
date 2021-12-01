@@ -85,15 +85,15 @@
 
                     <div class="flex flex-wrap flex-col-reverse sm:flex-row mt-8">
                         <div class="w-full sm:w-1/2 p-6 mt-6">
-                            <img src="../assets/img/fb-post.jpeg" alt="">
+                            <img src="../assets/img/action.png" alt="">
                         </div>
                         <div class="w-full sm:w-1/2 p-6 mt-6">
                             <div class="align-middle">
                                 <h3 class="text-3xl text-blue-500 font-bold leading-none mb-3">
-                                    Vừa live stream vừa chốt đơn dễ dàng
+                                    Nuôi nick tự động tương tác
                                 </h3>
                                 <p class="text-gray-600 mb-8">
-                                    Sử dụng phần mềm 1 cách hiệu quả, giúp bạn tiết kiệm thời gian và nhân lực trong việc bán hàng online. Hơn thế nữa chúng ta giảm thiểu được một số sai sót không đáng có.
+                                    Bạn có thể nuôi hàng trăm nick trên phần mêm, mỗi nick sẽ là 1 trình duyệt riêng biệt giúp bạn quản lý dễ dàng
                                 </p>
                             </div>
                         </div>
@@ -101,14 +101,14 @@
                     <div class="flex flex-wrap mt-8">
                         <div class="w-5/6 sm:w-1/2 p-6">
                             <h3 class="text-3xl text-blue-500 font-bold leading-none mb-3">
-                                Giao diện phần mềm
+                                Tăng lượng truy cập website
                             </h3>
                             <p class="text-gray-600 mb-8">
-                                Sau khi quét xong, bạn có thể lưu lại dữ liệu dưới dạng EXCEL hoặc CSV
+                                Ngoài ra bạn cũng có thể chạy tự động tăng lượng truy cập website, nhằm mục đích seo website của bạn trên hệ thống google
                             </p>
                         </div>
                         <div class="w-full sm:w-1/2 p-6">
-                            <img src="../assets/img/fb-excel.png" alt="">
+                            <img src="../assets/img/Seo-top-google.jpeg" alt="">
                         </div>
                     </div>
                 </div>
