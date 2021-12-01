@@ -108,7 +108,7 @@
                             </p>
                         </div>
                         <div class="w-full sm:w-1/2 p-6">
-                            <img src="../assets/img/Seo-top-google.jpeg" alt="">
+                            <img src="../assets/img/seo-google.jpeg" alt="">
                         </div>
                     </div>
                 </div>
