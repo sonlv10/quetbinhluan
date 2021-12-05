@@ -79,7 +79,7 @@
                             </p>
                         </div>
                         <div class="w-full sm:w-1/2 p-6">
-                            <img src="../assets/img/fb-live-1.png" alt="">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/wthkGjw4W2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
 
@@ -95,6 +95,7 @@
                                 <p class="text-gray-600 mb-8">
                                     Bạn có thể nuôi hàng trăm nick trên phần mêm, mỗi nick sẽ là 1 trình duyệt riêng biệt giúp bạn quản lý dễ dàng
                                 </p>
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/Vy4Mh8i2KvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
