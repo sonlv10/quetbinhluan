@@ -15,11 +15,11 @@
                     Hoặc tải phiên bản đầy đủ:
                 </p>
                 <div class="flex w-full justify-center md:justify-start pb-24 lg:pb-0 fade-in">
-                    <button onClick="download('https://api.quetbinhluan.com/download/fake-app-0.1.0.win.zip')" class="download-mac-btn font-bold py-2 px-4 rounded inline-flex items-center">
+                    <button onClick="download('https://api.quetbinhluan.com/download/fake-app.win.zip')" class="download-mac-btn font-bold py-2 px-4 rounded inline-flex items-center">
                         <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
                         <span>Tải xuống cho Windows</span>
                     </button>
-                    <button onClick="download('https://api.quetbinhluan.com/download/fake-app-0.1.0.dmg.zip')" class="download-win-btn font-bold py-2 px-4 rounded inline-flex items-center">
+                    <button onClick="download('https://api.quetbinhluan.com/download/fake-app.dmg.zip')" class="download-win-btn font-bold py-2 px-4 rounded inline-flex items-center">
                         <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
                         <span>Tải Xuống cho macOs</span>
                     </button>
